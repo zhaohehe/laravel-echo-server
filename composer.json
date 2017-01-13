@@ -1,0 +1,17 @@
+{
+    "name": "zhaohehe/laravel-echo-server",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "zhaohehe",
+            "email": "zhaohehedola@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EchoServer\\": "src/"
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
